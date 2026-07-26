@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/http-body-text",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Bounded text request parsing and text response creation.",
   "keywords": [
     "body",
